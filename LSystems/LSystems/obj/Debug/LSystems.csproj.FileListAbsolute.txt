@@ -1,0 +1,10 @@
+c:\users\dan\documents\visual studio 2015\Projects\LSystems\LSystems\bin\Debug\LSystems.exe.config
+c:\users\dan\documents\visual studio 2015\Projects\LSystems\LSystems\bin\Debug\LSystems.exe
+c:\users\dan\documents\visual studio 2015\Projects\LSystems\LSystems\bin\Debug\LSystems.pdb
+c:\users\dan\documents\visual studio 2015\Projects\LSystems\LSystems\bin\Debug\Nakov.TurtleGraphics.dll
+c:\users\dan\documents\visual studio 2015\Projects\LSystems\LSystems\obj\Debug\LSystems.csprojResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2015\Projects\LSystems\LSystems\obj\Debug\LSystems.Form1.resources
+c:\users\dan\documents\visual studio 2015\Projects\LSystems\LSystems\obj\Debug\LSystems.Properties.Resources.resources
+c:\users\dan\documents\visual studio 2015\Projects\LSystems\LSystems\obj\Debug\LSystems.csproj.GenerateResource.Cache
+c:\users\dan\documents\visual studio 2015\Projects\LSystems\LSystems\obj\Debug\LSystems.exe
+c:\users\dan\documents\visual studio 2015\Projects\LSystems\LSystems\obj\Debug\LSystems.pdb
